@@ -1,4 +1,7 @@
 # Logs
+test.html
+test.md
+
 logs
 *.log
 npm-debug.log*

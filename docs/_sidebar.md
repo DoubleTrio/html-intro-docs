@@ -1,0 +1,5 @@
+- Getting started
+  - [Intro to HTML](/ "Basic information on HTML")
+  - [Common Elements](common-elements.md "Common HTML Elements")
+  - [Styling Your Webpage](css.md "Applying CSS to HTML")
+  - [Other Resources](other-resources.md "Other HTML Resources")

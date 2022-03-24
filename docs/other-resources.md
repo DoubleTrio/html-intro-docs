@@ -1,5 +1,5 @@
 ## Other HTML and CSS Resources <!-- {docsify-ignore-all} -->
-There are many free online resources that offer more depth into the fundamentals of `HTML` and `CSS`. Below is a list of great resources that offer hands-on learning experience right from your browser.
+There are many free online resources that offer more depth into the fundamentals of `HTML` and `CSS`. Important topics that this guide doesn't go over includes: having multiple HTML pages, other important HTML elements and CSS styles, and more specific CSS selectors. Below is a list of great resources that offer hands-on learning experience right from your browser.
 
 - ##### [W3Schools](https://www.w3schools.com/html/default.asp)
 - ##### [CodeAcademy](https://www.codecademy.com/learn/learn-html)

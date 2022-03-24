@@ -23,7 +23,12 @@ Each line within `<body>` represents an HTML element. Each HTML element contains
 
 You'll need a text editor to create your first webpage. If you are on Windows or Mac, I personally recommend installing an editor such as [Visual Studio Code](https://code.visualstudio.com/). Otherwise, you can use Notepad **(Windows)** or TextEdit **(Mac)** as your text editor.
 
-Open a new file and type (or copy): 
+Create a new `.html` file named `index.html`.
+
+<img src='screenshots/html/sc1.png'/>
+
+Then in your `.html` file, copy or type the following code.
+
 ```html
 <!DOCTYPE html>
 <html> 
@@ -33,6 +38,9 @@ Open a new file and type (or copy):
     </body>
 </html>
 ```
+
+<img src='screenshots/html/sc2.png'/>
+
 
 All HTML documents must include `<!DOCTYPE html>` at the very top to tell the browser it should render an HTML document. According to the HTML specification, this is necessary to ensure your web page is rendered correctly.
 
@@ -47,4 +55,10 @@ Take note of the nested structure of the HTML code. Each element is nested withi
 
 ## Opening Your Webpage
 
-Save your file using **CTRL-S** or **File** -> **Save As**, then name it `index.html` Then in your file explorer, double-click on `index.html` and your browser will render your web page.
+Save your file using **CTRL-S** or **File** -> **Save**. Then in your file explorer, double-click on your `.html` and your browser will render your web page like so!
+
+<img src='screenshots/html/sc2point5.png'/>
+
+<img src='screenshots/html/sc3.png' width=281 height=142/>
+
+
